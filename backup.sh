@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # $1 ... mongo host to dump
 # $2 ... destination gcs bucket
 
